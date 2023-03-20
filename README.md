@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tezone01
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Front End
-- 💞️ I’m looking to collaborate on Front End Development projects
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me terrymamah@gmail.com
 
 <!---
